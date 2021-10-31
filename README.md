@@ -25,9 +25,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![wakatime](https://wakatime.com/badge/github/jessenia/soliditycontracts.svg)](https://wakatime.com/badge/github/jessenia/soliditycontracts)
 
-<br />
-[![wakatime](https://wakatime.com/badge/github/jessenia/soliditycontracts.svg)](https://wakatime.com/badge/github/jessenia/soliditycontracts)
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -91,6 +88,9 @@ To get a local copy up and running follow the steps below.
 ## Roadmap
 - [x] MIT license
 - [x] Create Readme
+- [] Create Hello World contract
+- [] Create a counter contract
+- [] 
 
 See the [open issues](https://github.com/jessenia/soliditycontracts/issues) for a full list of proposed features (and known issues).
 
@@ -134,6 +134,8 @@ Project Link: [https://github.com/jessenia/soliditycontracts](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * [Choose an Open Source License](https://choosealicense.com)
+* [Udemy Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer)
+* [Ethereum Blockchain Developer Guide](https://ethereum-blockchain-developer.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
