@@ -23,7 +23,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![wakatime](https://wakatime.com/badge/github/jessenia/soliditycontracts.svg)](https://wakatime.com/badge/github/jessenia/soliditycontracts)
 
 <br />
 [![wakatime](https://wakatime.com/badge/github/jessenia/soliditycontracts.svg)](https://wakatime.com/badge/github/jessenia/soliditycontracts)
