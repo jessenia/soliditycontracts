@@ -29,7 +29,6 @@
 [![wakatime](https://wakatime.com/badge/github/jessenia/soliditycontracts.svg)](https://wakatime.com/badge/github/jessenia/soliditycontracts)
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
