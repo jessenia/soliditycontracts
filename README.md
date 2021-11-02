@@ -81,7 +81,7 @@ To get a local copy up and running follow the steps below.
 ### Installation
 1. Clone the repo `git clone https://github.com/jessenia/soliditycontracts.git`
 2. Change directory to the project home `cd soliditycontracts`
-3. Compile a contract locally using `solc --bin <contract-name> or using [Remix](http://remix.ethereum.org/)
+3. Compile a contract locally using `solc --bin <contract-name>` or using [Remix](http://remix.ethereum.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -89,8 +89,9 @@ To get a local copy up and running follow the steps below.
 ## Roadmap
 - [x] MIT license
 - [x] Create Readme
-- [] Create Hello World contract
-- [] Create a counter contract
+- [x] Create Hello World contract
+- [x] Create a counter contract
+- [x] Complete working with variables  
 - [] 
 
 See the [open issues](https://github.com/jessenia/soliditycontracts/issues) for a full list of proposed features (and known issues).
