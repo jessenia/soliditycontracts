@@ -66,6 +66,9 @@ This is repo is acting as a sandbox for writing and tesitng Solidity contracts f
 ### Built With
 * [Solidity](https://docs.soliditylang.org/)
 
+<figure><embed src="https://wakatime.com/share/@jessenia/f2089f69-d26a-45c1-84a5-bbf6f1a6a034.svg"></embed></figure>
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
