@@ -89,8 +89,9 @@ To get a local copy up and running follow the steps below.
 ## Roadmap
 - [x] MIT license
 - [x] Create Readme
-- [] Create Hello World contract
-- [] Create a counter contract
+- [x] Create Hello World contract
+- [x] Create a counter contract
+- [x] Complete working with variables  
 - [] 
 
 See the [open issues](https://github.com/jessenia/soliditycontracts/issues) for a full list of proposed features (and known issues).
