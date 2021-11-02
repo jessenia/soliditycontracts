@@ -58,7 +58,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is repo acting as a sandbox for writing and tesitng Solidity contracts
+This is repo acting as a sandbox for writing and tesitng Solidity contracts as I complete the Ethereum Blockchain Developer Bootcamp With Solidity course on Udemy. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
