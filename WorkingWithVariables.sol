@@ -22,5 +22,11 @@ contract WorkingWithVariables {
     function decrementUint() public {
         myUint8--;
     }
+    
+    address myAddress;
+
+    function setAddress(address _address) public {
+        myAddress = _address;
+    }
 
 }
