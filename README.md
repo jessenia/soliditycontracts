@@ -79,12 +79,15 @@ To get a local copy up and running follow the steps below.
 * Install Brew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 * Install install node and npm `brew install node`
 * Install Solidity Compiler `npm install -g solc`
+* Optional: Install Ganache GUI if you want to use a local Ethereum blockchain for development `brew install --cask ganache`
+* Optional: Install Ganache CLI (the CLI version of the Ganache GUI)  `npm install -g ganache-cli`
 
 
 ### Installation
 1. Clone the repo `git clone https://github.com/jessenia/soliditycontracts.git`
 2. Change directory to the project home `cd soliditycontracts`
 3. Compile a contract locally using `solc --bin <contract-name>` or using [Remix](http://remix.ethereum.org/)
+4. Optional, if using Ganache, [connect it to Remix](https://medium.com/@kacharlabhargav21/using-ganache-with-remix-and-metamask-446fe5748ccf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
