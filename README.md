@@ -72,7 +72,7 @@ This is repo is acting as a sandbox for writing and tesitng Solidity contracts f
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-###Technologies Used
+### Technologies Used
 * [Solidity](https://docs.soliditylang.org/)
 * [Web3.JS](https://web3js.readthedocs.io/)
 * [Truffle](https://trufflesuite.com)
