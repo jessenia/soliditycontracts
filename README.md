@@ -35,6 +35,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#technologies-used">Technologies Used</a></li>
       </ul>
     </li>
     <li>
@@ -68,6 +69,15 @@ This is repo is acting as a sandbox for writing and tesitng Solidity contracts f
 
 <figure><embed src="https://wakatime.com/share/@jessenia/f2089f69-d26a-45c1-84a5-bbf6f1a6a034.svg"></embed></figure>
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+###Technologies Used
+* [Solidity](https://docs.soliditylang.org/)
+* [Web3.JS](https://web3js.readthedocs.io/)
+* [Truffle](https://trufflesuite.com)
+* [MetaMask](https://metamask.io)
+* [Remix](http://remix.ethereum.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
