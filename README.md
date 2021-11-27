@@ -154,6 +154,7 @@ Project Link: [https://github.com/jessenia/soliditycontracts](https://github.com
 * [Choose an Open Source License](https://choosealicense.com)
 * [Udemy Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer)
 * [Ethereum Blockchain Developer Guide](https://ethereum-blockchain-developer.com/)
+* [Solidity](https://docs.soliditylang.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
